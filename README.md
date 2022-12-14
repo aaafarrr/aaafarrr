@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Farhan. <img src="https://raw.githubusercontent.com/aaafarrr/aaafarrr/assets/img/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Farhan. <img src="https://raw.githubusercontent.com/aaafarrr/aaafarrr/main/assets/img/Hi.gif" width="25"></h2>
 
 ![Follower Badge](https://img.shields.io/github/followers/aaafarrr)
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=aaafarrr.visitor-badge)
