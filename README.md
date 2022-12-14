@@ -31,7 +31,7 @@ I love to solve the problem and implement idea with program.
 </a>
 </p>
 
-<h3> 🤝🏻 Connect with Me </h3>
+## 🤝🏻 Connect with Me
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/farhanalfayyadh/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
