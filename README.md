@@ -28,7 +28,7 @@ I love to solve the problem and implement idea with program.
 <a href="https://github.com/aaafarrr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaafarrr&theme=github_dark&layout=compact&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaafarrr&layout=compact&theme=github_dark&langs_count=8&show_icons=true&border=false&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=aaafarrr&theme=dark&hide_border=true&border_radius=0&mode=weekly&ring=58A6FF&currStreakLabel=FFFFFF&fire=DDDDDD&background=DDDDDD00"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=aaafarrr&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&ring=58A6FF&currStreakLabel=FFFFFF&fire=DDDDDD"/>
 </a>
 </p>
 
