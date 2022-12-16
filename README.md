@@ -32,6 +32,13 @@ I love to solve the problem and implement idea with program.
 </a>
 </p>
 
+## 🏆 GitHub Trophies
+<p align="center">
+<a href="https://github.com/aaafarrr">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=aaafarrr&theme=algolia&no-frame=false&no-bg=true&column=7&margin-w=5"/>
+</a>
+</p>
+
 ## 🤝🏻 Connect with Me
 
 <p align="center">
