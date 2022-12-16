@@ -1,9 +1,15 @@
 <h2> Hey there! I'm Farhan. <img src="https://raw.githubusercontent.com/aaafarrr/aaafarrr/main/assets/img/Hi.gif" width="25"></h2>
 
+<!--
 ![Follower Badge](https://img.shields.io/github/followers/aaafarrr)
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=aaafarr)
 
-<!-- <img align="right" alt="GIF" src="gif-right.gif" width="400"/> -->
+<img align="right" alt="GIF" src="gif-right.gif" width="400"/> -->
+
+<a href="https://github.com/aaafarrr">
+ <img src="https://img.shields.io/github/followers/aaafarrr"/>
+ <img src="https://visitor-badge.glitch.me/badge?page_id=aaafarr"/>
+</a>
 
 I love to solve the problem and implement idea with program.
 
