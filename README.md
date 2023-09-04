@@ -6,11 +6,6 @@
 
 <img align="right" alt="GIF" src="gif-right.gif" width="400"/> -->
 
-<a href="https://github.com/aaafarrr">
- <img src="https://img.shields.io/github/followers/aaafarrr"/>
- <img src="https://visitor-badge.glitch.me/badge?page_id=aaafarr"/>
-</a>
-
 I love to solve the problem and implement idea with program.
 
 ## 🛠 &nbsp;Tech Stack
